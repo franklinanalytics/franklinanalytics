@@ -1,3 +1,4 @@
+![](https://github.com/franklinanalytics/franklinanalytics/blob/main/img.webp)
 <h1 align="center">Hi there, I'm Franklin 👋</h1>
 <h3 align="center">Data Analyst | Financial Data Enthusiast | SQL & Excel Wizard</h3>
 
