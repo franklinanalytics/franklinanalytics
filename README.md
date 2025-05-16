@@ -40,7 +40,7 @@ I'm **Franklin Durueke**, a results-driven **Data Analyst** passionate about tra
 - 🚴‍♂️ [Sales Performance Dashboard](https://github.com/franklinanalytics/Sales-Performance-Analysis) — Performance metrics for a European bike retailer (Labano Final Project).
 - 💰 Financial Data Tracker *(coming soon…)*
 
-Check out my full portfolio at **[https://franklinanalytics.github.io](https://franklinanalytics.github.io)**
+Check out my full portfolio at **[https://franklinanalytics.github.io](https://franklinanalytics.github.io/portfolio)**
 
 ---
 
