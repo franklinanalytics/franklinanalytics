@@ -44,6 +44,10 @@ Check out my full portfolio at **[https://franklinanalytics.github.io](https://f
 
 ---
 
+⚡ **Fun Fact**: I once explained SQL joins using real-life restaurant scenarios — and it worked!
+
+---
+
 📫 **Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durueke-franklin)
@@ -51,5 +55,8 @@ Check out my full portfolio at **[https://franklinanalytics.github.io](https://f
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duruekefranklin@gmail.com)
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklinanalytics&show_icons=true&locale=en&layout=compact" alt="franklinanalytics" /></p>
 
-⚡ **Fun Fact**: I once explained SQL joins using real-life restaurant scenarios — and it worked!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklinanalytics&show_icons=true&locale=en" alt="franklinanalytics" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklinanalytics&" alt="franklinanalytics" /></p>
