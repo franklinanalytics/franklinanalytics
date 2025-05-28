@@ -38,7 +38,7 @@ I'm **Franklin Durueke**, a results-driven **Data Analyst** passionate about tra
 
 - 🏦[Bank Segmentation and Profitability Analysis](https://github.com/franklinanalytics/Bank-Segmentation-Analysis) — Segmenting customers by behavior and value to uncover profitability insights.
 - 💰[Loan Default Analysis](https://github.com/franklinanalytics/bank-loan-default-analysis) — Identifying key drivers of loan defaults using SQL & Power BI.
-- 🚴‍♂️ [Sales Performance Dashboard](https://github.com/franklinanalytics/Sales-Performance-Analysis) — Performance metrics for a European bike retailer (Labano Final Project).
+- 🚴‍♂️[Sales Performance Dashboard](https://github.com/franklinanalytics/Sales-Performance-Analysis) — Performance metrics for a European bike retailer (Labano Final Project).
 - 💰 Financial Data Tracker *(coming soon…)*
 
 Check out my full portfolio at **[https://franklinanalytics.github.io](https://franklinanalytics.github.io/portfolio)**
